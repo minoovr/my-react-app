@@ -60,6 +60,9 @@ export default function Weather() {
             <li>Humidity: 77%</li>
             <li>Wind: 8km/h</li>
           </ul>
+          <a href="https://github.com/minoovr/my-react-app" id="sourse-code">
+            Open source code
+          </a>
         </div>
       </div>
     </div>
